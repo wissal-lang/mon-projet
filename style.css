@@ -1,7 +1,7 @@
 /* ----- HERO SECTION ----- */
 .hero {
     height: 90vh; /* Grande image qui prend presque tout l'écran */
-    background: url(logo sandwich maker.webp) center/cover no-repeat;
+    background: url("logo sandwich maker.webp") center/cover no-repeat;
     position: relative;
     display: flex;
     align-items: center;
